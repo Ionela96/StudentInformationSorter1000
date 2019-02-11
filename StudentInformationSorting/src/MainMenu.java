@@ -34,7 +34,7 @@ public class MainMenu {
 					}
 					if (changeChoice == 2)
 					{
-						
+						GradesChange.scheduleChange();
 					}
 					
 				}
