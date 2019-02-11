@@ -39,7 +39,7 @@ public class AddOrDeleteStudents
 					System.out.println("Enter the student's second period.");
 					String period2 = s2.next();
 					System.out.println("Enter the student's second period grade.");
-					 grade2 = s2.next();
+					grade2 = s2.next();
 					System.out.println("Enter the student's third period.");
 					String period3 = s2.next();
 					System.out.println("Enter the student's third period grade.");
